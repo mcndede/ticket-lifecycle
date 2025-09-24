@@ -54,6 +54,6 @@ Next, I logged in as “John,” a help desk professional, to review the ticket 
 <img src="https://i.imgur.com/6Bxq1KK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this project, I simulated working a ticket from start to resolution using a test user account, “Jane.” I began by documenting an initial observation on the ticket board, noting that the issue might be connected to recent updates. I then tested this theory, confirmed the root cause, and recorded the findings on the ticket. After identifying that the update caused the outage, I documented the rollback, notified the vendor, and confirmed that online banking was restored. Finally, I closed the ticket as resolved, completing the full lifecycle of my first simulated support case.
+Finally, I began by documenting an initial observation on the ticket board, noting that the issue might be connected to recent updates. I then tested this theory, confirmed the root cause, and recorded the findings on the ticket. After identifying that the update caused the outage, I documented the rollback, notified the vendor, and confirmed that online banking was restored. Finally, I closed the ticket as resolved, completing the full lifecycle of my first simulated support case.
 </p>
 <br />
